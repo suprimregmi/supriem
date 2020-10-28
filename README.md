@@ -6,5 +6,5 @@
 I'm Suprim from Nepal, and I am a recent computer science graduate. I am machine learning/data science enthusiast.
 
 
-[![Suprim's github stats](https://github-readme-stats.vercel.app/api?username=supriem)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supriem)](https://github.com/anuraghazra/github-readme-stats)
 
