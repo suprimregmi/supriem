@@ -5,11 +5,8 @@
 
 Skills: ML/Linux/Deep Learning/HTML/Flask
 
-- 🔭 I’m currently Looking For Opportunity in AI/ML 
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
+- I’m currently Looking For Opportunity in AI/ML 
+- I have recently completed my graduation in CSIT
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriem&show_icons=true)  
