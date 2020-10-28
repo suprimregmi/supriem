@@ -1,11 +1,10 @@
-### Hi there 👋, Suprim Regmi
+### Hi there 👋, Suprim Regmi  
 #### ML Enthusiast
 I'm Suprim from Nepal.
 
 Skills: ML/Linux/Deep Learning/HTML/Flask
 
 - 🔭 I’m currently Looking For Opportunity in AI/ML 
-
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
@@ -17,9 +16,12 @@ Skills: ML/Linux/Deep Learning/HTML/Flask
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=supriem)  
 
-![Profile views](https://gpvc.arturio.dev/supriem)  
+
 
 
 
 <i font-color = "cyan"> I am also on socoal media </i>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/supriem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SuprimRegmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gildedprotagonist)  
+</br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/supriem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SuprimRegmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gildedprotagonist) 
+</br>
+![Profile views](https://gpvc.arturio.dev/supriem)  
