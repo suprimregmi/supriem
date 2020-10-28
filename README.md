@@ -7,15 +7,16 @@ Skills: ML/Linux/Deep Learning/HTML/Flask
 - 🔭 I’m currently working on Looking For Opportunity in AI/ML 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Suprim Regmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/supriem.regmi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/supriem_regmi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gildedprotagonist)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/supriem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SuprimRegmi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gildedprotagonist)  
 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supriem)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=supriem)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriem&show_icons=true)  
 
+![GitHub metrics](https://metrics.lecoq.io/supriem)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=supriem)  
 
-
-
-
-
+![Profile views](https://gpvc.arturio.dev/supriem)  
