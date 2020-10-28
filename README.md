@@ -1,6 +1,7 @@
-### Hi there 👋, Suprim Regmi  
+### Hi there 👋 
+#### I'm Suprim from Nepal
 #### ML Enthusiast
-I'm Suprim from Nepal.
+.
 
 Skills: ML/Linux/Deep Learning/HTML/Flask
 
