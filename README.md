@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there 👋, Suprim Regmi
+#### ML Enthusiast
+I'm Suprim from Nepal.
 
-<!--
-**supriem/supriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: ML/Linux/Deep Learning/HTML/Flask
 
-I'm Suprim from Nepal, and I am a recent computer science graduate. I am machine learning/data science enthusiast.
--->
+- 🔭 I’m currently working on this page. 
+
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=supriem)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
