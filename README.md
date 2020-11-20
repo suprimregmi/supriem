@@ -1,13 +1,9 @@
-### Hi there 👋 
-#### I'm Suprim from Nepal
-#### ML Enthusiast
-.
+#### Hi 👋 
+#### It's Suprim Regmi
+#### Looking for the opportunity in the field of AI/ML
 
-Skills: ML/Linux/Deep Learning/HTML/Flask
-
-- I’m currently Looking For Opportunity in AI/ML 
+- I’m currently Looking For Opportunity in the field of AI/ML 
 - I have recently completed my graduation in CSIT
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriem&show_icons=true)  
 
