@@ -2,9 +2,6 @@
 #### It's Suprim Regmi
 #### Looking for the opportunity in the field of AI/ML
 
-- I’m currently Looking For Opportunity in the field of AI/ML 
-- I have recently completed my graduation in CSIT
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriem&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/supriem)  
