@@ -2,7 +2,7 @@
 #### It's Suprim Regmi
 #### Looking for the opportunity in the field of AI/ML
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suprimregmi&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suprimregmi&show_icons=true&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/suprimregmi)  
 
