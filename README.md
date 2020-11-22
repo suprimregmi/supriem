@@ -7,8 +7,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/suprimregmi)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suprimregmi)  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=suprimregmi&show_icons=true&theme=radical)
 <i font-color = "cyan"> I am also on social media: </i>
 </br>
