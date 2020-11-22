@@ -2,11 +2,13 @@
 #### It's Suprim Regmi
 #### Looking for the opportunity in the field of AI/ML
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriem&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=suprimregmi&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/supriem)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suprimregmi)](https://github.com/anuraghazra/github-readme-stats
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=supriem)  
+![GitHub metrics](https://metrics.lecoq.io/suprimregmi)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suprimregmi)  
 
 <i font-color = "cyan"> I am also on social media: </i>
 </br>
