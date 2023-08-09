@@ -35,23 +35,3 @@
 ### My 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸...
 
 ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=sql&logoColor=white) ![Data Analysis](https://img.shields.io/badge/data%20analysis-FF5733?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-
-
-Suprim Regmi !
-Database Development • Python • Data Engineering
-GitHub GitHub LinkedIn Medium LinkedIn Kaggle
-
-### Currently working on...
-Database development
-GitHub Stats
-GitHub stats
-
-GitHub metrics
-GitHub streak stats
-
-My 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸…
-MySQL Python SQL Data Analysis
-
-Markdown 2375 bytes 81 words 38 lines Ln 22, Col 0HTML 131 characters 22 words 7 paragraphs
