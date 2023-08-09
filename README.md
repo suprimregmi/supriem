@@ -1,17 +1,60 @@
-#### Hi 👋 
-#### It's Suprim!!!
-#### Database Engineer
+Welcome file
+Welcome file
+
+**<h1 align="center">
+   Suprim Regmi !
+</h1>
+<h4 align="center">Database Development • Python • Data Engineering</h4>
+
+<p align="center">
+    <a href="https://brogrammersnepal.com.np/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/brogrammersnepal.com.np-FF7139.svg?&style=flat-square&logo=Firefox-Browser&logoColor=white&link=https://jingles.dev/"></a>
+    <a href="https://github.com/suprimregmi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@suprimregmi-%23121011?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jinglescode"></a>
+    <a href="https://twitter.com/jinglescode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@jinglescode-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/jinglescode"></a>
+<a href="https://medium.com/@suprim-regmi" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/-suprim--regmi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@suprim-regmi">
+</a>
+   <a href="https://www.linkedin.com/in/suprimregmi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-@suprimregmi-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/suprimregmi/"></a>
+   </a>
+<a href="https://www.kaggle.com/suprimregmi" target="_blank">  <img alt="Kaggle" src="https://img.shields.io/badge/-suprimregmi.np-000099.svg?&style=flat-square&logo=kaggle&logoColor=yellow&link=https://www.kaggle.com/suprimregmi">
+</a>
+</p>
+<hr/>
+### Currently working on...
+
+- Database  development 
+
+</br>
+
+### GitHub Stats
+
 #### 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=suprimregmi&show_icons=true&theme=radical)  
 
 ![GitHub metrics](https://metrics.lecoq.io/suprimregmi)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suprimregmi)  
 
-<i font-color = "blue"> <h4>...Connect.Me...</h4></i>
-</br>
-<br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SuprimRegmi/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gildedprotagonist)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/regmi_suprim)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='twitter' height='40'>](https://medium.com/suprim_regmi)
-</br>
 
+### My 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸...
+
+![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=sql&logoColor=white) ![Data Analysis](https://img.shields.io/badge/data%20analysis-FF5733?style=for-the-badge&logo=pandas&logoColor=white)
+
+**
+
+
+Suprim Regmi !
+Database Development • Python • Data Engineering
+GitHub GitHub LinkedIn Medium LinkedIn Kaggle
+
+### Currently working on...
+Database development
+GitHub Stats
+GitHub stats
+
+GitHub metrics
+GitHub streak stats
+
+My 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸…
+MySQL Python SQL Data Analysis
+
+Markdown 2375 bytes 81 words 38 lines Ln 22, Col 0HTML 131 characters 22 words 7 paragraphs
