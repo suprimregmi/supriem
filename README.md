@@ -1,6 +1,3 @@
-Welcome file
-Welcome file
-
 **<h1 align="center">
    Suprim Regmi !
 </h1>
