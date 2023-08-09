@@ -1,4 +1,4 @@
-**<h1 align="center">
+<h1 align="center">
    Suprim Regmi !
 </h1>
 <h4 align="center">Database Development • Python • Data Engineering</h4>
@@ -36,7 +36,7 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=sql&logoColor=white) ![Data Analysis](https://img.shields.io/badge/data%20analysis-FF5733?style=for-the-badge&logo=pandas&logoColor=white)
 
-**
+
 
 
 Suprim Regmi !
