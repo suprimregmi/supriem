@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://brogrammersnepal.com.np/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/brogrammersnepal.com.np-FF7139.svg?&style=flat-square&logo=Firefox-Browser&logoColor=white&link=https://jingles.dev/"></a>
     <a href="https://github.com/suprimregmi" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@suprimregmi-%23121011?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/jinglescode"></a>
-    <a href="https://twitter.com/suprim_regmi" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/-@jinglescode-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/suprim_regmi"></a>
+    <a href="https://twitter.com/suprim_regmi" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/-@suprim_regmi-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/suprim_regmi"></a>
 <a href="https://medium.com/@suprim-regmi" target="_blank">
   <img alt="Medium" src="https://img.shields.io/badge/-suprim--regmi-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@suprim-regmi">
 </a>
